@@ -1,1 +1,1 @@
-# CodeClauseInternship_ResponsiveLandingPage
+# This is a Responsive Landing Page
